@@ -1,16 +1,16 @@
 {
   "title": "Aragae! Dark Elf-chan",
   "description": "A dark elf who was rampaging on the continent was defeated by the stoic swordsman Crow. She was prepared to die, but for some reason, Crow suddenly decided to bring her home and look after her... ?!",
-  "discord": "discord.gg/zBQErEQk3x",
   "artist": "NABE Yuu",
   "author": "NABE Yuu",
   "cover": "https://i.imgur.com/jezukdK.jpg",
+  "discord": "discord.gg/zBQErEQk3x",
   "chapters": {
-    "1": {
+    "01": {
       "groups": {
         "Mushokuji": "/proxy/api/imgur/chapter/WbhovXC/"
       },
       "last_updated": "1632644905"
-    },
+    }
   }
 }
